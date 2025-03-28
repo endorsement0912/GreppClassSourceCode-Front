@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_java/a_basic/a_basic.iml" filepath="$PROJECT_DIR$/a_java/a_basic/a_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_java/a_java.iml" filepath="$PROJECT_DIR$/a_java/a_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_java/b_oop/b_oop.iml" filepath="$PROJECT_DIR$/a_java/b_oop/b_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_java/bc_coffeemanager/bc_coffeemanager.iml" filepath="$PROJECT_DIR$/a_java/bc_coffeemanager/bc_coffeemanager.iml" />
+    </modules>
+  </component>
+</project>
