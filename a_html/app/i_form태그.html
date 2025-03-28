@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<!--
+  action : url
+  method : http method (GET/POST)
+  enctype : 데이터의 Mime Type : 데이터에 종류와 형식을 나타내는 메타데이터
+                                  ex) text/html, image/PNG, application/x-www-form-urlencoded
+  input tag의 name 속성 : 요청 파라미터 name
+  input tag의 value : 요청 파라미터 value
+-->
+<form action="http://localhost:8989/qrcode/download" method="get">
+  <input type = "text" name = "name" placeholder="파일이름">
+  <input type = "text" name = "name" placeholder="qr 내용">
+  <button>전송</button>
+</form>
+</body>
+</html>
